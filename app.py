@@ -47,16 +47,16 @@ title = """
 <div style="text-align: center;max-width: 1500px;">
     <h2>Chat with Documents 📚 - Falcon, Llama-2 and OpenAI</h2>
     <p style="text-align: center;">Upload txt, pdf, doc, docx, enex, epub, html, md, odt, ptt and pttx.
-    Wait for the Status to show Loaded documents, start typing your questions. Oficial Repository <a href="https://github.com/R3gm/ConversaDocs">ConversaDocs</a>.<br /></p>
+    Wait for the Status to show Loaded documents, start typing your questions. Oficial Repository <a href="https://github.com/ndn1954/llmdocumentchatbot">llmdocumentchatbot</a>.<br /></p>
 </div>
 """
 
 description = """
 # Application Information
 
-- Notebook for run ConversaDocs in Colab [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R3gm/ConversaDocs/blob/main/ConversaDocs_Colab.ipynb)
+- Notebook for run llmdocumentchatbot in Colab [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ndn1954/llmdocumentchatbot/LLMdocumentchatbot_Colab.ipynb)
 
-- Oficial Repository [![a](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/R3gm/ConversaDocs/)
+- Oficial Repository [![a](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/ndn1954/llmdocumentchatbot/)
 
 - You can upload multiple documents at once to a single database.
 
@@ -66,7 +66,7 @@ description = """
 
 - This application works on both CPU and GPU. For fast inference with GGML models, use the GPU.
 
-- For more information about what GGML models are, you can visit this notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/R3gm/InsightSolver-Colab/blob/main/LLM_Inference_with_llama_cpp_python__Llama_2_13b_chat.ipynb)
+- For more information about what GGML models are, you can visit this notebook [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/ndn1954/llmdocumentchatbot/LLMdocumentchatbot_Colab.ipynb)
 
 """
 
