@@ -7,7 +7,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import HuggingFaceEmbeddings
 from langchain import HuggingFaceHub
-from conversadocs.llamacppmodels import LlamaCpp #from langchain.llms import LlamaCpp
+from llamacppmodels import LlamaCpp #from langchain.llms import LlamaCpp
 from huggingface_hub import hf_hub_download
 import param
 import os
